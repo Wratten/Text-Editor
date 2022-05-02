@@ -33,7 +33,7 @@ module.exports = () => {
         inject: true,
         name: "Jateeee",
         short_name: "Jateee",
-        description: "This h",
+        description: "Take notes with JS syntax highlighting",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "/",
