@@ -43,19 +43,19 @@ To run this app,
 
 ## Demo Video
 
-![Demo video](demo.gif)
+![Demo video](/assets/demo.gif)
 
 ## Manifest.json
 
-![Manifest.json](manifest.PNG)
+![Manifest.json](/assets/manifest.PNG)
 
 ## Service Workers
 
-![Service Workers](service%20workers.PNG)
+![Service Workers](/assets/service%20workers.PNG)
 
 ## IndexedDB
 
-![IndexedDB](indexedDB.PNG)
+![IndexedDB](/assets/indexedDB.PNG)
 
 ## Contributions
 
